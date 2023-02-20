@@ -7,7 +7,7 @@ This model gives a test set accuracy of 99.36%.
 ## Introduction:
 
 The MNIST dataset is a large database of handwritten digits that is commonly used for training image processing systems. It contains 60,000 training images and 10,000 testing images. Below is a snapshot of some sample images from MNIST dataset.
-<img width="576" alt="Screenshot 2023-02-19 at 7 39 48 PM" src="https://user-images.githubusercontent.com/101216624/219990319-b6f34043-eda1-4f8e-bbd0-924604546785.png">
+<img width="576" align="center" alt="Screenshot 2023-02-19 at 7 39 48 PM" src="https://user-images.githubusercontent.com/101216624/219990319-b6f34043-eda1-4f8e-bbd0-924604546785.png">
 
 The MNIST dataset is a large database of handwritten digits that is commonly used for training image processing systems. It contains 60,000 training images and 10,000 testing images. Below is a snapshot of some sample images from MNIST dataset.
 
