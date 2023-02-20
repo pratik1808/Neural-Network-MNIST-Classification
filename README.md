@@ -1,13 +1,5 @@
 # Neural-Network-MNIST-Classification
 
-URL to the website:
-
-https://msbaoptim-10.anvil.app/
-
-URL to clone Website:
-
-https://anvil.works/build#clone:HTMVW62S2VAY2AIW=URZ752I5BSTOCQBRHBQTAUP4
-
 ## Overview
 This website and Python Notebook demonstrates output of a basic Convolutional neural network, consisting of multiple Convolution and Maxpooling layers, followed by a fully connected layer and a softmax layer which gives out 10 probabilities, one for each digit(0-9). 
 This model gives a test set accuracy of 99.36%.
@@ -15,7 +7,9 @@ This model gives a test set accuracy of 99.36%.
 ## Introduction:
 
 The MNIST dataset is a large database of handwritten digits that is commonly used for training image processing systems. It contains 60,000 training images and 10,000 testing images. Below is a snapshot of some sample images from MNIST dataset.
+<img width="576" alt="Screenshot 2023-02-19 at 7 39 48 PM" src="https://user-images.githubusercontent.com/101216624/219990319-b6f34043-eda1-4f8e-bbd0-924604546785.png">
 
+The MNIST dataset is a large database of handwritten digits that is commonly used for training image processing systems. It contains 60,000 training images and 10,000 testing images. Below is a snapshot of some sample images from MNIST dataset.
 
 Our approach to build the neural network for this classifiction problem was to use convolutional neural networks (CNN). A Convolutional Neural Network is a Deep Learning algorithm that can take in an input image, assign importance (learnable weights and biases) to various aspects/objects in the image, and be able to differentiate one from the other. The pre-processing required in a CNN is much lower as compared to other classification algorithms. While in primitive methods filters are hand-engineered, with enough training, CNNs have the ability to learn these filters/characteristics. The figure below shows an example of a CNN model.
 
